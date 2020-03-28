@@ -1,3 +1,8 @@
+[![CircleCI](https://circleci.com/gh/kaz-i-54/damage-calc-4005-v2-yarn.svg?style=svg)](https://circleci.com/gh/kaz-i-54/damage-calc-4005-v2-yarn)
+
+# what is this
+Studying how to use circle-ci
+
 # damage-calc
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
